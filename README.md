@@ -45,3 +45,8 @@ Halaman ini digunakan untuk membatalkan pemesanan lapangan futsal yang sudah dib
 ![Cek Ketersediaan](src/futsalbookingapp/WhatsApp-Image-2025-05-24-at-17.44.42_3c8810cd.jpg).
 
 Halaman ini digunakan untuk mengecek apakah lapangan tersedia pada waktu dan tanggal tertentu sebelum melakukan pemesanan.
+
+## Pembayaran
+![Pembayaran](src/futsalbookingapp/WhatsApp-Image-2025-05-24-at-17.44.58_ed6cb086.jpg).
+
+Halaman ini digunakan untuk mengecek dan memproses pembayaran pemesanan lapangan futsal.
