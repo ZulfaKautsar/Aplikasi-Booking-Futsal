@@ -35,3 +35,7 @@ Form ini digunakan oleh pengguna untuk melakukan pemesanan lapangan futsal. Peng
 ![Lihat Pemesanan](src/futsalbookingapp/WhatsApp-Image-2025-05-24-at-7.44.12_df4a1c09.jpg).
 
 Halaman ini menampilkan daftar semua pemesanan lapangan futsal yang telah dilakukan oleh pengguna.
+
+## Batalkan Pemesanan
+![Batalkan Pemesanan](src/futsalbookingapp/WhatsApp-Image-2025-05-24-at-17.44.27_9433fa61.jpg).
+Halaman ini digunakan untuk membatalkan pemesanan lapangan futsal yang sudah dibuat sebelumnya.
