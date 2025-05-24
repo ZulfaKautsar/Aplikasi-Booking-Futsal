@@ -1,6 +1,6 @@
 # Aplikasi Pemesanan Futsal
 
-Aplikasi untuk memesan lapangan futsal dengan fitur lengkap.
+Aplikasi ini digunakan untuk melakukan pemesanan lapangan futsal, cek ketersediaan, pembayaran, dan generate laporan. Dibangun menggunakan Java Swing dan terhubung ke database MySQL.
 
 ## Fitur
 - Booking
@@ -12,9 +12,26 @@ Aplikasi untuk memesan lapangan futsal dengan fitur lengkap.
 - Logout
 
 ## Kontributor
-- ZulfaKautsar
-- AidanLahith
-- Opellia77
+Kontributor dan Tanggung Jawab Fitur
+1. Zulfa
+- Pemesanan Lapangan (FrmBooking.java)
+- Generate Laporan (FrmGenerateReport.java)
+
+2. Opellia77
+- Melihat Pemesanan (FrmViewBookings.java)
+
+- Membatalkan Pemesanan (FrmCancelBooking.java)
+
+3. AidanLahith
+- Cek Ketersediaan (FrmCheckAvailability.java)
+- Pembayaran (FrmPayment.java)
+
+Tools & Teknologi
+- Java (JDK 21)
+- MySQL Database
+- Java Swing
+- NetBeans IDE
+- MySQL Connector (mysql-connector-j-9.3.0.jar)
 
 ## Halaman Login
 ![Halaman Login](src/futsalbookingapp/WhatsApp-Image-2025-05-24-at-17-41-12-edf3e378.jpg)
