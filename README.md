@@ -55,3 +55,8 @@ Halaman ini digunakan untuk mengecek dan memproses pembayaran pemesanan lapangan
 ![Laporan Pemesanan](src/futsalbookingapp/WhatsApp-Image-2025-05-24-at-17.45.19_5ad168da.jpg).
 
 Halaman ini menampilkan rekap semua data pemesanan lapangan, lengkap dengan total pendapatan yang diperoleh.
+
+## Format Laporan Pemesanan Futsal
+![Format Laporan Pemesanan Futsal](src/futsalbookingapp/WhatsApp-Image-2025-05-24-at-17.46.19_f9edfdf1.jpg).
+
+Laporan ini berisi detail pemesanan yang telah dilakukan pada suatu tanggal, termasuk informasi pelanggan, jadwal, dan total pendapatan.
