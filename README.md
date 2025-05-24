@@ -50,3 +50,8 @@ Halaman ini digunakan untuk mengecek apakah lapangan tersedia pada waktu dan tan
 ![Pembayaran](src/futsalbookingapp/WhatsApp-Image-2025-05-24-at-17.44.58_ed6cb086.jpg).
 
 Halaman ini digunakan untuk mengecek dan memproses pembayaran pemesanan lapangan futsal.
+
+## Laporan Pemesanan
+![Laporan Pemesanan](src/futsalbookingapp/WhatsApp-Image-2025-05-24-at-17.45.19_5ad168da.jpg).
+
+Halaman ini menampilkan rekap semua data pemesanan lapangan, lengkap dengan total pendapatan yang diperoleh.
