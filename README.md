@@ -24,17 +24,8 @@ Gambar ini menunjukkan tampilan halaman login aplikasi FutsalBookingApp, Halaman
 ## Menu Utama
 ![Menu Utama](src/futsalbookingapp/WhatsApp-Image-2025-05-24-at-17.41.39-a45da029.jpg)
 
-Gambar ini menunjukkan tampilan Menu UtamaFitur Utama yang isi nya ada:
-- Booking: Pesan lapangan futsal sesuai tanggal dan jam yang diinginkan.
+Aplikasi ini dirancang untuk mempermudah pengguna dalam melakukan pemesanan lapangan futsal secara online. Dengan tampilan yang sederhana dan fitur yang mudah digunakan, pengguna dapat dengan cepat melakukan booking dan mengecek ketersediaan lapangan.
 
-- Lihat Pemesanan: Tampilkan daftar pemesanan yang sudah dilakukan.
-
-- Batalkan Pemesanan: Batalkan jadwal jika terjadi perubahan.
-
-- Cek Ketersediaan: Lihat jadwal kosong yang tersedia untuk pemesanan.
-
-- Pembayaran: Lakukan pembayaran pemesanan langsung melalui aplikasi.
-
-- Buat Laporan: Cetak atau unduh laporan riwayat pemesanan.
-
-- Logout: Keluar dari akun pengguna dengan aman.
+## Form Pemesanan
+![Form Pemesanan](src/futsalbookingapp/WhatsApp-Image-2025-05-24-at-17.41.56-24a0b6f1.jpg)
+Form ini digunakan oleh pengguna untuk melakukan pemesanan lapangan futsal. Pengguna diminta mengisi data yang diperlukan agar pemesanan tercatat dengan baik.
